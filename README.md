@@ -1,6 +1,6 @@
 Vulcan Project
 ==============
 
-[![](http://img.youtube.com/vi/rrSCinkFUtA/0.jpg)](https://www.youtube.com/watch?v=QAEkuVgt6Aw "Into Darkness")
+[![](https://i.ytimg.com/vi/QAEkuVgt6Aw/hqdefault.jpg)](https://www.youtube.com/watch?v=QAEkuVgt6Aw "Into Darkness")
 
-[![](http://img.youtube.com/vi/-WXVyjwuIok/0.jpg)](https://www.youtube.com/watch?v=xlsFwBhiY-M "The Enigma")
+[![](https://i.ytimg.com/vi/-WXVyjwuIok/hqdefault.jpg)](https://www.youtube.com/watch?v=xlsFwBhiY-M "The Enigma")
